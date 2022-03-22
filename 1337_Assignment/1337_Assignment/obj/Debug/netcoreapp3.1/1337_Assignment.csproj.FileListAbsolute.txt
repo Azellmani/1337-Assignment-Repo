@@ -1,0 +1,13 @@
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\bin\Debug\netcoreapp3.1\1337_Assignment.exe
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\bin\Debug\netcoreapp3.1\1337_Assignment.deps.json
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\bin\Debug\netcoreapp3.1\1337_Assignment.runtimeconfig.json
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\bin\Debug\netcoreapp3.1\1337_Assignment.runtimeconfig.dev.json
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\bin\Debug\netcoreapp3.1\1337_Assignment.dll
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\bin\Debug\netcoreapp3.1\1337_Assignment.pdb
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.AssemblyInfoInputs.cache
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.AssemblyInfo.cs
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.dll
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.pdb
+C:\Users\andzam\source\repos\1337-Assignment-Repo\1337_Assignment\1337_Assignment\obj\Debug\netcoreapp3.1\1337_Assignment.genruntimeconfig.cache
